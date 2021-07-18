@@ -1,5 +1,5 @@
 <?php
-    if ($argv[1]) {
+    if (!empty($argv[1])) {
         $int = intval($argv[1]);
         $return = null;
         if ($int) {
