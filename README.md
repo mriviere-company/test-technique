@@ -10,10 +10,9 @@ Go to folder test-javascript 'cd test-javascript' and put in terminal 'yarn star
 
 3. Data Parser :
 
-To convert your file in CSV please enter "php -f parser.php yourdirectory" in the terminal" like "php -f parser.php parser_test".
+To convert your file in CSV please enter "php -f parser.php" in the terminal where you have your other files/directories to export.
 
 
 
 Note :
 Test Javascript isn't finish. It will display an error about the render but you can look at the react code.
-And the for the Data Parser I ran out time so there is the way to get the files and to create a CSV but there isn't something for feed the CSV.
